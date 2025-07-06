@@ -4127,7 +4127,7 @@ const un = {
   chatSessionKey: "sessionId",
   defaultLanguage: "en",
   showWelcomeScreen: !1,
-  initialMessages: ["Hi there! 👋", "My name is MBO Assistant. How can I assist you today?"],
+  initialMessages: ["Xin chào! 👋", "Em là ChungAI. Anh/chị cần hỗ trợ gì ạ?"],
   i18n: {
     en: {
       title: "Hi there! 👋",
